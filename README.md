@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+```
+<card>
+    <name>Ryan Zindorf</name>
+    <title>Senior Software Engineering Manager</title>
+    <email>rmzindorf@gmail.com</email>
+    <link>https://ryanzindorf.com</link>
+</card>
+```
+
 <!--
 **rmzindorf/rmzindorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
